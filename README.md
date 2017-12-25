@@ -1,2 +1,2 @@
 # Writing-Sample
-Selected parts of thesis report of portfolio optimization project
+Selected parts of my undergraduate thesis statement of Portfolio Optimization project.
